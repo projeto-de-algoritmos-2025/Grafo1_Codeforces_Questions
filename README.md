@@ -1,5 +1,5 @@
 # Grafo1_Codeforces_Questions
-# Número da Lista: 1  
+**Número da Lista:** 1  
 **Conteúdo da Disciplina:** Grafos
 
 ---
@@ -9,13 +9,13 @@
 | Matrícula   | Aluno                                |
 |-------------|----------------------------------------|
 | 221007591   | Júlio Cesar Gomes de Souza Crispim     |
-| xxxxxxxxxx  | Marco MArques de Castro                |
+| 211062197   | Marco Marques de Castro                |
 
 ---
 
 ## Sobre
 
-Descreva os objetivos do seu projeto e como ele funciona.
+Este trabalho tem como objetivo analisar e resolver uma seleção de questões relacionadas a grafos disponíveis na plataforma LeetCode. As soluções serão desenvolvidas aplicando os conhecimentos e técnicas estudados durante as aulas.
 
 ---
 
@@ -23,25 +23,19 @@ Descreva os objetivos do seu projeto e como ele funciona.
 
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-1. ![Screenshot 1](caminho/para/imagem1.png)
-2. ![Screenshot 2](caminho/para/imagem2.png)
-3. ![Screenshot 3](caminho/para/imagem3.png)
+1. ![1192. Critical Connections in a Network](caminho/para/imagem1.png)
+2. ![749. Contain Virus](caminho/para/imagem2.png)
+3. ![765. Couples Holding Hands](caminho/para/imagem3.png)
+4. ![1319. Number of Operations to Make Network Connected](caminho/para/imagem3.png)
 
 ---
 
 ## Instalação
 
-- **Linguagem:** xxxxxx  
+- **Linguagem:** Python  
 - **Framework:** (caso exista)
+- **Pré-requisitos:** Compilador de Python.
 
-### Pré-requisitos
+### Link da Apresentação
 
-Descreva os pré-requisitos para rodar o seu projeto.
 
-### Uso
-
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-### Outros
-
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
