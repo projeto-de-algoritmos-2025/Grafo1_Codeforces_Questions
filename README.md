@@ -24,8 +24,8 @@ Este projeto tem como objetivo a resolução de exercícios da plataforma LeetCo
 
 ## [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
 
-![1192. Critical Connections in a Network](src\1192._Critical_Connections_in_a_Network.png)
-#### [Link do Código](code\1192._Critical_Connections_in_a_Network.py)
+![1192. Critical Connections in a Network](src/1192._Critical_Connections_in_a_Network.png)
+#### [Link do Código](code/1192._Critical_Connections_in_a_Network.py)
 
 ## [749. Contain Virus](https://leetcode.com/problems/contain-virus/description/)
 
