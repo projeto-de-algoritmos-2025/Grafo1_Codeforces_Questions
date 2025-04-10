@@ -22,11 +22,25 @@ Este projeto tem como objetivo a resolução de exercícios da plataforma LeetCo
 
 ## Screenshots
 
-1. ![1192. Critical Connections in a Network](../src/1192_Critical_Connections_in_a_Network.png)
-2. ![749. Contain Virus](../src/749_Contain_Virus.png)
+## [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
 
-3. ![Screenshot 3](caminho/para/imagem3.png)
-4. ![Screenshot 4](caminho/para/imagem3.png)
+![1192. Critical Connections in a Network](src\1192._Critical_Connections_in_a_Network.png)
+#### [Link do Código]()
+
+## [749. Contain Virus](https://leetcode.com/problems/contain-virus/description/)
+
+![749. Contain Virus](src/749._Contain_Virus.png)
+Link do Código:
+
+## [765. Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/)
+
+![765. Couples Holding Hands](caminho/para/imagem3.png)
+Código:
+
+## [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/)
+
+![1319. Number of Operations to Make Network Connected](caminho/para/imagem3.png)
+Código:
 
 ---
 
