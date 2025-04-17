@@ -41,7 +41,7 @@ Este projeto tem como objetivo a resolução de exercícios da plataforma LeetCo
 ## [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/)
 
 ![1319. Number of Operations to Make Network Connected](src/Number_of_Operations-Accepted_Marco.png)
-#### [Link do Código]()
+#### [Link do Código](code/1319.Number_of_Operations_to_Make_Network_Connected.py)
 
 ---
 
