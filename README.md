@@ -9,7 +9,7 @@
 
 | Matrícula | Aluno                     |
 |-----------|---------------------------|
-| 221007591 | Júlo Cesar Gomes          |
+| 221007591 | Júlio Cesar Gomes          |
 | 211062197 | Marco Marques de Castro   |
 
 ---
