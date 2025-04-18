@@ -60,3 +60,5 @@ Acesse a plataforma LeetCode, localize o exercício pelo número correspondente,
 
 ## Link da Apresentação
 
+[Link](https://youtu.be/RRhrSkMkIIw)
+
